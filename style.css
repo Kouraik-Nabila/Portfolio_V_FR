@@ -631,6 +631,15 @@ img{
         }
 
 
+        .swiper-pagination-bullet{
+           background-color: var(--text-color-light);
+           
+        }
+
+        .swiper-pagination-bullet-active{
+          background-color: var(--first-color);
+        }
+
         /* contact */
 
         .contact__container{
@@ -1028,7 +1037,7 @@ img{
   }
 
   .nav__menu{
-    width: 328px;
+    width: 370px;
     left: 0;
     right: 0;
     margin: 0 auto;
