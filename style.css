@@ -1050,5 +1050,5 @@ a,i{
 }
 
 a,i:hover{
-  color: var(--text-color-light);
+  color: var(--first-color);
 }
